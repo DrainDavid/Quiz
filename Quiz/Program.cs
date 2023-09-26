@@ -3,7 +3,7 @@ Console.WriteLine("いらっしゃいませ to the land of Sweden");
 Console.WriteLine("I never been to Japan but it seems like a good place");
 Console.WriteLine("Now you will do a quiz about  me");
 Console.WriteLine("What is my favorite food");
-console.writeline("1.shushi 2.meatballs 3.pizza");
+Console.WriteLine("1.shushi 2.meatballs 3.pizza");
 
 string quiz1 = Console.ReadLine();
 
@@ -21,7 +21,7 @@ string quiz2 = Console.Readline();
 if (quiz2 == "2")
 {
 sum++;
-console.writeline("great job")
+Console.writeline("great job");
 
 }
 
@@ -33,7 +33,7 @@ sting quiz3 = Console.Readline();
 if (quiz3 == "2")
 {
 sum++;
-Cosole.writeline("you are doing good")
+Console.writeline("you are doing good");
 }
 
 Console.writeline("How many pets do you think i have");
